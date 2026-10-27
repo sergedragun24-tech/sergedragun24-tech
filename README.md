@@ -1,16 +1,18 @@
-## Hi there 👋
+# Сергей Драгун
 
-<!--
-**sergedragun24-tech/sergedragun24-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Технический редактор. Превращаю редакторское суждение в воспроизводимый процесс:
+правила, по которым проверяется текст, и числа, по которым видно, работает ли это.
 
-Here are some ideas to get you started:
+Здесь лежат две части одной редакционной системы для корпоративного блога
+облачного провайдера. Темы: ИИ, GPU, ИТ-инфраструктура.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[LLM-playbook-blog](https://github.com/sergedragun24-tech/LLM-playbook-blog)**
+  приёмка и фактчек готовых черновиков: пайплайн из восьми этапов,
+  регламент работы в трёх чатах, линтер на механику текста.
+- **[GPU-playbook-blog](https://github.com/sergedragun24-tech/GPU-playbook-blog)**
+  написание с нуля и правка: три ветки работы, протокол сложной редактуры,
+  глоссарий терминов.
+
+Каждый прогон измеряется: доля текста, пережившая редактуру, считается скриптом
+по зафиксированному способу счёта, вместе со способом правки, при котором
+это число получено.
